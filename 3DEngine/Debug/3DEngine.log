@@ -1,0 +1,3 @@
+﻿  app.cpp
+D:\Projects\Programming\cpp\3DEngine\3DEngine\3DEngine\app.cpp(11): warning C4715: 'App::Init': not all control paths return a value
+  3DEngine.vcxproj -> D:\Projects\Programming\cpp\3DEngine\3DEngine\Debug\3DEngine.exe
